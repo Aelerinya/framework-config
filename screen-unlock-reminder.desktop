@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Screen Unlock Reminder Monitor
+Exec=/usr/bin/python3 /home/aelerinya/scripts/unlock_detector.py
+StartupNotify=true
